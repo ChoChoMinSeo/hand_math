@@ -13,7 +13,7 @@ MNIST dataset활용해서 학습한 손글씨 숫자 인식 toy project
 
 ![Alt text](/assets/example_img.png)
 
-model: Efficientnet b0 절반만 떼서 사용.
+model: Efficientnet b0 절반만 떼서 사용. Colab에서 학습
 
 Loss fn: CrossEntropyLoss
 
