@@ -12,3 +12,13 @@ MNIST dataset활용해서 학습한 손글씨 숫자 인식 toy project
 5. Reset버튼 눌러 새 문제 받기, 반복
 
 ![Alt text](/assets/example.png)
+
+model: Efficientnet b0 절반만 떼서 사용.
+
+Loss fn: CrossEntropyLoss
+
+Optimizer: Adam
+
+Epoch: 30
+
+for more detail: model.ipynb
